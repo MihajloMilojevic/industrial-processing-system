@@ -10,7 +10,7 @@ Thread-safe servis za simulaciju obrade industrijskih zadataka sa prioritetima, 
 ## Pokretanje
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/MihajloMilojevic/industrial-processing-system.git
 cd IndustrialProcessingSystem
 
 dotnet run --project src/IndustrialProcessingSystem.Console
